@@ -54,7 +54,7 @@ This backend enables:
 ### Installation
 
 **1️⃣ Clone the repository**
-git clone https://github.com/yourusername/recruitment-system-backend.git
+git clone https://github.com/Arsalan-462/recruitment-system-backend.git
 cd recruitment-system-backend
 
 
